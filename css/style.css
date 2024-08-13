@@ -1,0 +1,29 @@
+.row{
+    padding: 20px 0;
+}
+
+
+.card{
+    color: white;
+    background-image: radial-gradient(circle, rgb(201, 201, 201) 1%,#8b64ff 99%);
+    padding: 20px;
+    border: #8b64ff;
+    position: relative;
+}
+p{    font-size: 20px;
+}
+p , i ,.card h3{
+    color: white;
+}
+i{
+    font-size: 50px;
+    margin: 20px 0;
+
+}
+.numer{
+    font-family: Black Ops One;
+    font-size: 50px;
+position: absolute;
+top:0;
+right: 10px;
+}
